@@ -10,7 +10,7 @@ function PracticalTaskCode() {
       {/* Fixed Button at the Top of the Screen */}
       <Link to="/Home">
         <button className="fixed top-4 left-1/2 -translate-x-1/2 z-50 px-6 py-3 bg-blue-600 text-white font-medium rounded-lg shadow-lg hover:bg-blue-700 transition-colors">
-          Extra Button
+          Creative Task
         </button>
       </Link>
       {/* Your Existing Centered Content - Unchanged */}
